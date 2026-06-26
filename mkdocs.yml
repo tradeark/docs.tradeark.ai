@@ -8,6 +8,8 @@ strict: true
 theme:
   name: material
   language: zh
+  logo: assets/tradeark_logo.png
+  favicon: assets/tradeark_logo.png
   palette:
     - scheme: default
       primary: blue grey
@@ -207,3 +209,4 @@ nav:
               - GET /market/klines: reference/api/market-klines.md
               - WS /ws/klines: reference/api/ws-klines.md
               - POST /ai/proxy: reference/api/ai-proxy.md
+
