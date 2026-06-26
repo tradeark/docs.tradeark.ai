@@ -78,6 +78,7 @@ plugins:
             - Workflows:
                 - Manual Trading: guides/manual-trading.md
                 - AI and Automation: guides/ai-automation.md
+                - AI Risk Firewall: guides/ai-firewall.md
                 - Updates and Maintenance: guides/update-maintenance.md
             - Reference:
                 - FAQ: reference/faq.md
@@ -168,6 +169,7 @@ nav:
   - 操作流程:
       - 手动交易: guides/manual-trading.md
       - AI 与自动化: guides/ai-automation.md
+      - AI 防火墙: guides/ai-firewall.md
       - 更新与维护: guides/update-maintenance.md
   - 参考:
       - 常见问题: reference/faq.md

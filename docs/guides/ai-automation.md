@@ -4,6 +4,8 @@ TradeArk is not just a manual trading page. It also provides a local execution s
 
 ![AI model management window](../assets/ui/en/ai-settings.png)
 
+If you plan to let an external local tool submit write actions, read [AI Risk Firewall](ai-firewall.md) alongside this chapter. The model window explains how to connect AI providers; the firewall page explains how to constrain what each AI client is allowed to do after the model starts making requests.
+
 ## Two common usage modes
 
 ### 1. AI analysis with human confirmation
@@ -108,5 +110,7 @@ If you connect TradeArk to OpenClaw, Claude Code, Codex, or any other local agen
 - Prefer storing credentials inside the local executor.
 - When possible, use `account_id` instead of sending raw keys on every request.
 - Start with read-only permissions on the AI side and expand write access gradually.
+
+For the full flow of creating named clients, setting account scope, defining pre-trade limits, and understanding watchdog actions, continue with [AI Risk Firewall](ai-firewall.md).
 
 Only when you need scripted AI integration or an external tool workflow should you revisit [API Appendix (Advanced)](../reference/api.md).

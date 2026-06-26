@@ -13,6 +13,7 @@ TradeArk 是一个本地优先的加密交易工作台。这份手册以 `rust_e
     3. 然后从“界面详解”里按区域看你最常用的功能页。
     4. 接着看 [添加账户](guides/add-account.md) 和 [手动交易](guides/manual-trading.md)，跑通一次最小交易流程。
     5. 最后再看 [AI 与自动化](guides/ai-automation.md)。
+    6. 如果你准备把 OpenClaw、Codex、Claude Code 或其他本地 AI 代理接进来，再看 [AI 防火墙](guides/ai-firewall.md)。
 
 ## 核心功能速览
 
@@ -20,6 +21,7 @@ TradeArk 是一个本地优先的加密交易工作台。这份手册以 `rust_e
 - 批量交易：在右侧下单面板里多选账户，把同一笔开仓 / 平仓指令同时发给多个账户，也能用底部批量工具统一平仓或撤单。
 - 手动交易：支持市价、限价、条件单、TP / SL，以及用底部标签核对持仓、挂单、历史和资产。
 - AI 与自动化：支持右下角 AI 分析、AI 快捷下单和自动做单任务。
+- AI 防火墙：可以为不同 AI 工具发放命名客户端，只允许访问指定账户，并在本地下单前后执行策略限制与监控。
 
 ## 这套系统能做什么
 
@@ -28,6 +30,7 @@ TradeArk 是一个本地优先的加密交易工作台。这份手册以 `rust_e
 - 通过账户管理窗口统一接入 `OKX`、`Binance`、`Bybit`、`Bitget`、`Gate.io`。
 - 在右侧下单区执行手动交易、批量交易、设置 TP / SL，并用底部标签查看持仓、挂单、历史和资产。
 - 通过顶部 `AI` 和底部 `自动做单` 入口使用模型分析和自动化任务。
+- 让 AI 写操作先经过本地防火墙，而不是把交易所原始密钥直接交给外部工具。
 
 ## 批量交易是什么
 
@@ -90,8 +93,9 @@ TradeArk 是一个本地优先的加密交易工作台。这份手册以 `rust_e
 18. [添加账户](guides/add-account.md)
 19. [手动交易](guides/manual-trading.md)
 20. [AI 与自动化](guides/ai-automation.md)
-21. [更新与维护](guides/update-maintenance.md)
-22. [API 附录（高级）](reference/api.md)
+21. [AI 防火墙](guides/ai-firewall.md)
+22. [更新与维护](guides/update-maintenance.md)
+23. [API 附录（高级）](reference/api.md)
 
 ## 当前手册已经覆盖的主题
 
@@ -99,4 +103,5 @@ TradeArk 是一个本地优先的加密交易工作台。这份手册以 `rust_e
 - 账户管理、测试网与连通性验证
 - 手动下单、批量交易、TP / SL、批量清理和结果核对
 - AI 模型管理、右下角 AI 分析、AI 快捷下单窗口和一键自动做单入口
+- 本地 AI 防火墙的命名客户端、策略限制和 watchdog 流程
 - 更新维护和高级 API 附录

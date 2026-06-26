@@ -13,6 +13,7 @@ TradeArk is a local-first crypto trading workstation. This handbook focuses on t
     3. Read the feature pages in the “Interface Guide” section according to the areas you use most.
     4. Then go through [Add Accounts](guides/add-account.md) and [Manual Trading](guides/manual-trading.md) to complete one minimal trading workflow.
     5. After that, move on to [AI and Automation](guides/ai-automation.md).
+    6. If you plan to connect OpenClaw, Codex, Claude Code, or other local agents, read [AI Risk Firewall](guides/ai-firewall.md).
 
 ## Core features at a glance
 
@@ -20,6 +21,7 @@ TradeArk is a local-first crypto trading workstation. This handbook focuses on t
 - Batch trading: select multiple accounts in the right order panel, send the same open or close instruction to all of them, and use the bottom batch tools for one-pass cleanup.
 - Manual trading: use market, limit, and trigger orders, set TP / SL, and verify positions, open orders, history, and assets from the bottom tabs.
 - AI and automation: use the bottom-right AI analysis entry, the AI quick-order modal, and auto-trade tasks.
+- AI risk firewall: issue named AI clients, scope them to saved accounts, enforce pre-trade policy, and keep a local watchdog on write actions before and after exchange submission.
 
 ## What this system can do
 
@@ -28,6 +30,7 @@ TradeArk is a local-first crypto trading workstation. This handbook focuses on t
 - Connect `OKX`, `Binance`, `Bybit`, `Bitget`, and `Gate.io` through the account center.
 - Place manual and batch trades in the right order panel, set TP / SL, and inspect positions, orders, history, and assets from the bottom tabs.
 - Use model analysis and automation through the top `AI` entry and the bottom auto-trade entry points.
+- Route AI-assisted write requests through the local firewall instead of handing raw exchange credentials to an external tool.
 
 ## What batch trading means here
 
@@ -90,8 +93,9 @@ If you are a normal user, this is the recommended reading path:
 18. [Add Accounts](guides/add-account.md)
 19. [Manual Trading](guides/manual-trading.md)
 20. [AI and Automation](guides/ai-automation.md)
-21. [Updates and Maintenance](guides/update-maintenance.md)
-22. [API Appendix (Advanced)](reference/api.md)
+21. [AI Risk Firewall](guides/ai-firewall.md)
+22. [Updates and Maintenance](guides/update-maintenance.md)
+23. [API Appendix (Advanced)](reference/api.md)
 
 ## What is already covered
 
@@ -99,4 +103,5 @@ If you are a normal user, this is the recommended reading path:
 - Account management, testnet distinction, and connectivity checks
 - Manual trading, batch trading, TP / SL, batch cleanup, and result verification
 - AI model management, bottom-right AI analysis, the AI quick-order modal, and the one-click auto-trade launcher
+- The local AI firewall workflow for named clients, policy limits, and watchdog actions
 - Update procedures, maintenance checks, and the advanced API appendix

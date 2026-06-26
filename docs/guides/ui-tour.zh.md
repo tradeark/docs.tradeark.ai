@@ -24,6 +24,7 @@
 - [右下角 AI 分析](ai-chart-analysis.md)
 - [AI 快捷下单窗口](ai-quick-order.md)
 - [一键自动做单](auto-trade-launcher.md)
+- [AI 防火墙](ai-firewall.md)
 - [持仓页](positions-tab.md)
 - [挂单页](open-orders-tab.md)
 - [历史委托页](order-history-tab.md)

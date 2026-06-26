@@ -24,6 +24,7 @@ This chapter no longer puts every feature onto a single page. The directory is a
 - [Bottom-Right AI Analysis](ai-chart-analysis.md)
 - [AI Quick Order Modal](ai-quick-order.md)
 - [One-Click Auto Trade](auto-trade-launcher.md)
+- [AI Risk Firewall](ai-firewall.md)
 - [Positions Tab](positions-tab.md)
 - [Open Orders Tab](open-orders-tab.md)
 - [Order History Tab](order-history-tab.md)
