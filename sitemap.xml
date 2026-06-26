@@ -50,6 +50,13 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-chart-analysis/"/>
     </url>
     <url>
+        <loc>https://docs.tradeark.ai/guides/ai-firewall/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-firewall/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-firewall/"/>
+    </url>
+    <url>
         <loc>https://docs.tradeark.ai/guides/ai-model-center/</loc>
         <lastmod>2026-06-26</lastmod>
         <changefreq>daily</changefreq>
@@ -461,6 +468,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-chart-analysis/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-chart-analysis/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/ai-firewall/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-firewall/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-firewall/"/>
     </url>
     <url>
         <loc>https://docs.tradeark.ai/zh/guides/ai-model-center/</loc>

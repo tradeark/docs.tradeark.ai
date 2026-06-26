@@ -24,7 +24,7 @@
         
       
       
-      <link rel="icon" href="../assets/images/favicon.png">
+      <link rel="icon" href="../assets/tradeark_logo.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
     
     
@@ -96,8 +96,7 @@
   <nav class="md-header__inner md-grid" aria-label="页眉">
     <a href="./" title="TradeArk 用户手册" class="md-header__button md-logo" aria-label="TradeArk 用户手册" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../assets/tradeark_logo.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -359,8 +358,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="./" title="TradeArk 用户手册" class="md-nav__button md-logo" aria-label="TradeArk 用户手册" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../assets/tradeark_logo.png" alt="logo">
 
     </a>
     TradeArk 用户手册
@@ -1531,6 +1529,34 @@
     
   
     AI 与自动化
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="guides/ai-firewall/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI 防火墙
   
 
     
@@ -2943,7 +2969,7 @@
 
 <h1 id="tradeark">TradeArk 用户手册<a class="headerlink" href="#tradeark" title="Permanent link">&para;</a></h1>
 <p>TradeArk 是一个本地优先的加密交易工作台。这份手册以 <code>rust_executor</code> 提供的本地 UI 使用为主，重点讲清楚怎么在界面里看盘、切交易对、管理账户、手动下单、批量交易、使用 AI 与查看执行结果。</p>
-<p><img alt="TradeArk 主界面总览" src="../assets/ui/overview-btc-1h.png" /></p>
+<p><img alt="TradeArk AI 防火墙页面" src="../assets/ui/ai-firewall-overview.png" /></p>
 <div class="admonition note">
 <p class="admonition-title">截图说明</p>
 <p>本手册里的界面截图来自测试环境，目的只是帮助你理解界面布局和操作入口。你自己的账户、价格、持仓和 AI 配置会与截图不同。</p>
@@ -2956,6 +2982,7 @@
 <li>然后从“界面详解”里按区域看你最常用的功能页。</li>
 <li>接着看 <a href="guides/add-account/">添加账户</a> 和 <a href="guides/manual-trading/">手动交易</a>，跑通一次最小交易流程。</li>
 <li>最后再看 <a href="guides/ai-automation/">AI 与自动化</a>。</li>
+<li>如果你准备把 OpenClaw、Codex、Claude Code 或其他本地 AI 代理接进来，再看 <a href="guides/ai-firewall/">AI 防火墙</a>。</li>
 </ol>
 </div>
 <h2 id="_1">核心功能速览<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
@@ -2964,6 +2991,7 @@
 <li>批量交易：在右侧下单面板里多选账户，把同一笔开仓 / 平仓指令同时发给多个账户，也能用底部批量工具统一平仓或撤单。</li>
 <li>手动交易：支持市价、限价、条件单、TP / SL，以及用底部标签核对持仓、挂单、历史和资产。</li>
 <li>AI 与自动化：支持右下角 AI 分析、AI 快捷下单和自动做单任务。</li>
+<li>AI 防火墙：可以为不同 AI 工具发放命名客户端，只允许访问指定账户，并在本地下单前后执行策略限制与监控。</li>
 </ul>
 <h2 id="_2">这套系统能做什么<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <ul>
@@ -2972,6 +3000,7 @@
 <li>通过账户管理窗口统一接入 <code>OKX</code>、<code>Binance</code>、<code>Bybit</code>、<code>Bitget</code>、<code>Gate.io</code>。</li>
 <li>在右侧下单区执行手动交易、批量交易、设置 TP / SL，并用底部标签查看持仓、挂单、历史和资产。</li>
 <li>通过顶部 <code>AI</code> 和底部 <code>自动做单</code> 入口使用模型分析和自动化任务。</li>
+<li>让 AI 写操作先经过本地防火墙，而不是把交易所原始密钥直接交给外部工具。</li>
 </ul>
 <h2 id="_3">批量交易是什么<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
 <ul>
@@ -3060,6 +3089,7 @@
 <li><a href="guides/add-account/">添加账户</a></li>
 <li><a href="guides/manual-trading/">手动交易</a></li>
 <li><a href="guides/ai-automation/">AI 与自动化</a></li>
+<li><a href="guides/ai-firewall/">AI 防火墙</a></li>
 <li><a href="guides/update-maintenance/">更新与维护</a></li>
 <li><a href="reference/api/">API 附录（高级）</a></li>
 </ol>
@@ -3069,6 +3099,7 @@
 <li>账户管理、测试网与连通性验证</li>
 <li>手动下单、批量交易、TP / SL、批量清理和结果核对</li>
 <li>AI 模型管理、右下角 AI 分析、AI 快捷下单窗口和一键自动做单入口</li>
+<li>本地 AI 防火墙的命名客户端、策略限制和 watchdog 流程</li>
 <li>更新维护和高级 API 附录</li>
 </ul>
 

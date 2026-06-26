@@ -24,7 +24,7 @@
         
       
       
-      <link rel="icon" href="assets/images/favicon.png">
+      <link rel="icon" href="assets/tradeark_logo.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
     
     
@@ -96,8 +96,7 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="." title="TradeArk User Manual" class="md-header__button md-logo" aria-label="TradeArk User Manual" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="assets/tradeark_logo.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -359,8 +358,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="." title="TradeArk User Manual" class="md-nav__button md-logo" aria-label="TradeArk User Manual" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="assets/tradeark_logo.png" alt="logo">
 
     </a>
     TradeArk User Manual
@@ -1531,6 +1529,34 @@
     
   
     AI and Automation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="guides/ai-firewall/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI Risk Firewall
   
 
     
@@ -2943,7 +2969,7 @@
 
 <h1 id="tradeark-user-manual">TradeArk User Manual<a class="headerlink" href="#tradeark-user-manual" title="Permanent link">&para;</a></h1>
 <p>TradeArk is a local-first crypto trading workstation. This handbook focuses on the local UI provided by <code>rust_executor</code>, with an emphasis on understanding the interface, connecting accounts, placing manual and batch trades, using AI-assisted features, and checking results.</p>
-<p><img alt="TradeArk main UI overview" src="assets/ui/en/overview-btc-1h.png" /></p>
+<p><img alt="TradeArk AI risk control page" src="assets/ui/en/ai-firewall-overview.png" /></p>
 <div class="admonition note">
 <p class="admonition-title">About the screenshots</p>
 <p>The screenshots in this handbook come from a test environment. They are here to explain the layout and entry points. Your own accounts, prices, positions, and AI configuration will differ.</p>
@@ -2956,6 +2982,7 @@
 <li>Read the feature pages in the “Interface Guide” section according to the areas you use most.</li>
 <li>Then go through <a href="guides/add-account/">Add Accounts</a> and <a href="guides/manual-trading/">Manual Trading</a> to complete one minimal trading workflow.</li>
 <li>After that, move on to <a href="guides/ai-automation/">AI and Automation</a>.</li>
+<li>If you plan to connect OpenClaw, Codex, Claude Code, or other local agents, read <a href="guides/ai-firewall/">AI Risk Firewall</a>.</li>
 </ol>
 </div>
 <h2 id="core-features-at-a-glance">Core features at a glance<a class="headerlink" href="#core-features-at-a-glance" title="Permanent link">&para;</a></h2>
@@ -2964,6 +2991,7 @@
 <li>Batch trading: select multiple accounts in the right order panel, send the same open or close instruction to all of them, and use the bottom batch tools for one-pass cleanup.</li>
 <li>Manual trading: use market, limit, and trigger orders, set TP / SL, and verify positions, open orders, history, and assets from the bottom tabs.</li>
 <li>AI and automation: use the bottom-right AI analysis entry, the AI quick-order modal, and auto-trade tasks.</li>
+<li>AI risk firewall: issue named AI clients, scope them to saved accounts, enforce pre-trade policy, and keep a local watchdog on write actions before and after exchange submission.</li>
 </ul>
 <h2 id="what-this-system-can-do">What this system can do<a class="headerlink" href="#what-this-system-can-do" title="Permanent link">&para;</a></h2>
 <ul>
@@ -2972,6 +3000,7 @@
 <li>Connect <code>OKX</code>, <code>Binance</code>, <code>Bybit</code>, <code>Bitget</code>, and <code>Gate.io</code> through the account center.</li>
 <li>Place manual and batch trades in the right order panel, set TP / SL, and inspect positions, orders, history, and assets from the bottom tabs.</li>
 <li>Use model analysis and automation through the top <code>AI</code> entry and the bottom auto-trade entry points.</li>
+<li>Route AI-assisted write requests through the local firewall instead of handing raw exchange credentials to an external tool.</li>
 </ul>
 <h2 id="what-batch-trading-means-here">What batch trading means here<a class="headerlink" href="#what-batch-trading-means-here" title="Permanent link">&para;</a></h2>
 <ul>
@@ -3060,6 +3089,7 @@
 <li><a href="guides/add-account/">Add Accounts</a></li>
 <li><a href="guides/manual-trading/">Manual Trading</a></li>
 <li><a href="guides/ai-automation/">AI and Automation</a></li>
+<li><a href="guides/ai-firewall/">AI Risk Firewall</a></li>
 <li><a href="guides/update-maintenance/">Updates and Maintenance</a></li>
 <li><a href="reference/api/">API Appendix (Advanced)</a></li>
 </ol>
@@ -3069,6 +3099,7 @@
 <li>Account management, testnet distinction, and connectivity checks</li>
 <li>Manual trading, batch trading, TP / SL, batch cleanup, and result verification</li>
 <li>AI model management, bottom-right AI analysis, the AI quick-order modal, and the one-click auto-trade launcher</li>
+<li>The local AI firewall workflow for named clients, policy limits, and watchdog actions</li>
 <li>Update procedures, maintenance checks, and the advanced API appendix</li>
 </ul>
 

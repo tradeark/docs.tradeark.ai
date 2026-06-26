@@ -16,7 +16,7 @@
         <link rel="prev" href="../manual-trading/">
       
       
-        <link rel="next" href="../update-maintenance/">
+        <link rel="next" href="../ai-firewall/">
       
       
         
@@ -26,7 +26,7 @@
         
       
       
-      <link rel="icon" href="../../../assets/images/favicon.png">
+      <link rel="icon" href="../../../assets/tradeark_logo.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
     
     
@@ -98,8 +98,7 @@
   <nav class="md-header__inner md-grid" aria-label="页眉">
     <a href="../../" title="TradeArk 用户手册" class="md-header__button md-logo" aria-label="TradeArk 用户手册" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../../../assets/tradeark_logo.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -361,8 +360,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="../../" title="TradeArk 用户手册" class="md-nav__button md-logo" aria-label="TradeArk 用户手册" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../../../assets/tradeark_logo.png" alt="logo">
 
     </a>
     TradeArk 用户手册
@@ -1585,6 +1583,34 @@
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ai-firewall/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI 防火墙
+  
+
+    
+  </span>
+  
+  
+
+      </a>
     </li>
   
 
@@ -3029,6 +3055,7 @@
 <h1 id="ai">AI 与自动化<a class="headerlink" href="#ai" title="Permanent link">&para;</a></h1>
 <p>TradeArk 不只是一个手动下单页面，它也提供面向 AI 工作流和自动化任务的本地执行面。</p>
 <p><img alt="AI 模型管理窗口" src="../../../assets/ui/ai-settings.png" /></p>
+<p>如果你准备让外部本地工具直接发起写操作，建议把 <a href="../ai-firewall/">AI 防火墙</a> 和本页一起看。模型窗口主要讲怎么接 AI Provider，防火墙页主要讲模型开始发请求之后，TradeArk 怎么限制每个 AI 客户端能做什么。</p>
 <h2 id="_1">两类常见用法<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
 <h3 id="1-ai">1. AI 分析但人工确认执行<a class="headerlink" href="#1-ai" title="Permanent link">&para;</a></h3>
 <p>适合刚开始使用的人：</p>
@@ -3119,6 +3146,7 @@
 <li>能用 <code>account_id</code> 就尽量不要在每次请求里重复传密钥。</li>
 <li>AI 侧先做只读，再逐步开放写权限。</li>
 </ul>
+<p>如果你想完整了解“怎么创建命名客户端、怎么绑定账户范围、怎么设置预下单限制、watchdog 会在什么情况下介入”，下一步直接看 <a href="../ai-firewall/">AI 防火墙</a>。</p>
 <p>只有当你要做脚本化 AI 接入或外部工具对接时，才建议再回看 <a href="../../reference/api/">API 附录（高级）</a>。</p>
 
 

@@ -16,7 +16,7 @@
         <link rel="prev" href="../manual-trading/">
       
       
-        <link rel="next" href="../update-maintenance/">
+        <link rel="next" href="../ai-firewall/">
       
       
         
@@ -26,7 +26,7 @@
         
       
       
-      <link rel="icon" href="../../assets/images/favicon.png">
+      <link rel="icon" href="../../assets/tradeark_logo.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
     
     
@@ -98,8 +98,7 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="../.." title="TradeArk User Manual" class="md-header__button md-logo" aria-label="TradeArk User Manual" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../../assets/tradeark_logo.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -361,8 +360,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="../.." title="TradeArk User Manual" class="md-nav__button md-logo" aria-label="TradeArk User Manual" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../../assets/tradeark_logo.png" alt="logo">
 
     </a>
     TradeArk User Manual
@@ -1585,6 +1583,34 @@
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ai-firewall/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI Risk Firewall
+  
+
+    
+  </span>
+  
+  
+
+      </a>
     </li>
   
 
@@ -3029,6 +3055,7 @@
 <h1 id="ai-and-automation">AI and Automation<a class="headerlink" href="#ai-and-automation" title="Permanent link">&para;</a></h1>
 <p>TradeArk is not just a manual trading page. It also provides a local execution surface for AI workflows and automated tasks.</p>
 <p><img alt="AI model management window" src="../../assets/ui/en/ai-settings.png" /></p>
+<p>If you plan to let an external local tool submit write actions, read <a href="../ai-firewall/">AI Risk Firewall</a> alongside this chapter. The model window explains how to connect AI providers; the firewall page explains how to constrain what each AI client is allowed to do after the model starts making requests.</p>
 <h2 id="two-common-usage-modes">Two common usage modes<a class="headerlink" href="#two-common-usage-modes" title="Permanent link">&para;</a></h2>
 <h3 id="1-ai-analysis-with-human-confirmation">1. AI analysis with human confirmation<a class="headerlink" href="#1-ai-analysis-with-human-confirmation" title="Permanent link">&para;</a></h3>
 <p>This mode is suitable for new users:</p>
@@ -3119,6 +3146,7 @@
 <li>When possible, use <code>account_id</code> instead of sending raw keys on every request.</li>
 <li>Start with read-only permissions on the AI side and expand write access gradually.</li>
 </ul>
+<p>For the full flow of creating named clients, setting account scope, defining pre-trade limits, and understanding watchdog actions, continue with <a href="../ai-firewall/">AI Risk Firewall</a>.</p>
 <p>Only when you need scripted AI integration or an external tool workflow should you revisit <a href="../../reference/api/">API Appendix (Advanced)</a>.</p>
 
 
