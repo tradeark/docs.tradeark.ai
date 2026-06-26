@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.tradeark.ai/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/getting-started/first-run/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/getting-started/first-run/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/getting-started/first-run/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/getting-started/installation/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/getting-started/installation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/getting-started/installation/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/account-center/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/account-center/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/account-center/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/add-account/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/add-account/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/add-account/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/ai-automation/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-automation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-automation/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/ai-chart-analysis/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-chart-analysis/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-chart-analysis/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/ai-model-center/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-model-center/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-model-center/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/ai-quick-order/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-quick-order/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-quick-order/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/assets-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/assets-tab/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/assets-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/auto-trade-launcher/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/auto-trade-launcher/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/auto-trade-launcher/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/auto-trade-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/auto-trade-tab/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/auto-trade-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/chart-workspace/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/chart-workspace/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/chart-workspace/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/manual-trading/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/manual-trading/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/manual-trading/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/market-sidebar/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/market-sidebar/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/market-sidebar/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/open-orders-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/open-orders-tab/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/open-orders-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/order-history-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/order-history-tab/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/order-history-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/order-panel/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/order-panel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/order-panel/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/position-history-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/position-history-tab/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/position-history-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/positions-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/positions-tab/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/positions-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/top-bar/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/top-bar/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/top-bar/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/ui-tour/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ui-tour/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ui-tour/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/update-maintenance/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/update-maintenance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/update-maintenance/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/connect-exchange-keys/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/connect-exchange-keys/binance/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/binance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/binance/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/connect-exchange-keys/bitget/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/bitget/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/bitget/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/connect-exchange-keys/bybit/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/bybit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/bybit/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/connect-exchange-keys/gate/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/gate/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/gate/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/connect-exchange-keys/okx/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/okx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/okx/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/guides/connect-exchange-keys/tradeark/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/tradeark/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/tradeark/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/faq/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/faq/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/account-by-id-test/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/account-by-id-test/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/account-by-id-test/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/account-by-id/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/account-by-id/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/account-by-id/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/account-test/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/account-test/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/account-test/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/accounts/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/accounts/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/accounts/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/ai-proxy/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/ai-proxy/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/ai-proxy/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/balances/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/balances/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/balances/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/cancel-open-orders/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/cancel-open-orders/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/cancel-open-orders/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/cancel-order/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/cancel-order/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/cancel-order/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/cancel-tpsl/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/cancel-tpsl/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/cancel-tpsl/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/close-all/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/close-all/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/close-all/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/health/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/health/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/health/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/market-klines/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/market-klines/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/market-klines/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/market-symbols/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/market-symbols/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/market-symbols/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/market-ticker/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/market-ticker/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/market-ticker/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/market-tickers/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/market-tickers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/market-tickers/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/open-orders/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/open-orders/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/open-orders/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/open-tpsl-orders/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/open-tpsl-orders/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/open-tpsl-orders/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/orders-history/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/orders-history/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/orders-history/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/place-order/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/place-order/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/place-order/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/positions-history/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/positions-history/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/positions-history/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/positions/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/positions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/positions/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/set-leverage/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/set-leverage/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/set-leverage/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/set-margin-mode/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/set-margin-mode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/set-margin-mode/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/set-tpsl/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/set-tpsl/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/set-tpsl/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/settings-ai/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/settings-ai/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/settings-ai/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/settings-bots/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/settings-bots/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/settings-bots/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/reference/api/ws-klines/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/ws-klines/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/ws-klines/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/getting-started/first-run/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/getting-started/first-run/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/getting-started/first-run/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/getting-started/installation/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/getting-started/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/getting-started/installation/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/account-center/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/account-center/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/account-center/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/add-account/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/add-account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/add-account/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/ai-automation/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-automation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-automation/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/ai-chart-analysis/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-chart-analysis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-chart-analysis/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/ai-model-center/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-model-center/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-model-center/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/ai-quick-order/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ai-quick-order/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ai-quick-order/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/assets-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/assets-tab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/assets-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/auto-trade-launcher/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/auto-trade-launcher/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/auto-trade-launcher/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/auto-trade-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/auto-trade-tab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/auto-trade-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/chart-workspace/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/chart-workspace/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/chart-workspace/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/exchange-okx/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/exchange-okx/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/manual-trading/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/manual-trading/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/manual-trading/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/market-sidebar/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/market-sidebar/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/market-sidebar/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/open-orders-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/open-orders-tab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/open-orders-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/order-history-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/order-history-tab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/order-history-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/order-panel/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/order-panel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/order-panel/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/position-history-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/position-history-tab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/position-history-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/positions-tab/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/positions-tab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/positions-tab/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/top-bar/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/top-bar/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/top-bar/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/ui-tour/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/ui-tour/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/ui-tour/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/update-maintenance/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/update-maintenance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/update-maintenance/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/connect-exchange-keys/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/connect-exchange-keys/binance/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/binance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/binance/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/connect-exchange-keys/bitget/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/bitget/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/bitget/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/connect-exchange-keys/bybit/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/bybit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/bybit/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/connect-exchange-keys/gate/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/gate/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/gate/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/connect-exchange-keys/okx/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/okx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/okx/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/guides/connect-exchange-keys/tradeark/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/guides/connect-exchange-keys/tradeark/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/guides/connect-exchange-keys/tradeark/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/faq/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/faq/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/account-by-id-test/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/account-by-id-test/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/account-by-id-test/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/account-by-id/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/account-by-id/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/account-by-id/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/account-test/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/account-test/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/account-test/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/accounts/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/accounts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/accounts/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/ai-proxy/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/ai-proxy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/ai-proxy/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/balances/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/balances/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/balances/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/cancel-open-orders/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/cancel-open-orders/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/cancel-open-orders/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/cancel-order/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/cancel-order/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/cancel-order/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/cancel-tpsl/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/cancel-tpsl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/cancel-tpsl/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/close-all/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/close-all/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/close-all/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/health/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/health/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/health/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/market-klines/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/market-klines/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/market-klines/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/market-symbols/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/market-symbols/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/market-symbols/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/market-ticker/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/market-ticker/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/market-ticker/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/market-tickers/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/market-tickers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/market-tickers/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/open-orders/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/open-orders/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/open-orders/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/open-tpsl-orders/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/open-tpsl-orders/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/open-tpsl-orders/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/orders-history/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/orders-history/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/orders-history/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/place-order/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/place-order/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/place-order/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/positions-history/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/positions-history/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/positions-history/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/positions/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/positions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/positions/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/set-leverage/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/set-leverage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/set-leverage/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/set-margin-mode/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/set-margin-mode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/set-margin-mode/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/set-tpsl/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/set-tpsl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/set-tpsl/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/settings-ai/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/settings-ai/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/settings-ai/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/settings-bots/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/settings-bots/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/settings-bots/"/>
+    </url>
+    <url>
+        <loc>https://docs.tradeark.ai/zh/reference/api/ws-klines/</loc>
+        <lastmod>2026-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.tradeark.ai/zh/reference/api/ws-klines/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.tradeark.ai/reference/api/ws-klines/"/>
+    </url>
+</urlset>
